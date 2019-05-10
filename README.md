@@ -2,6 +2,8 @@
 
 This is a very simple webpack demo for my presentation.
 
+__Slides:__ [https://bit.ly/2VeGLn9](https://bit.ly/2VeGLn9)
+
 ## Requirement
 
 - nodejs
